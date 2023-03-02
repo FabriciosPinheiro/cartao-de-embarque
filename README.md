@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Cartão de Embarque
 
-- [Visite o projeto on-line](https://fabriciospinheiro.github.io/calcartao-de-embarqueculator/)
+- [Visite o projeto on-line](https://fabriciospinheiro.github.io/calcartao-de-embarque/)
 
 ## 🔖 Layout
 
